@@ -1,0 +1,15 @@
+{
+    "name": "dell/custom-mvc",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aqueeb7",
+            "email": "mdaqueeb3@gmail.com"
+        }
+    ],
+    "require": {}
+}
